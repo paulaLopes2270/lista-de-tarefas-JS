@@ -1,2 +1,2 @@
-# lista-de-tarefas-JS
+# Calculadora-IMC-em-js
 Created with CodeSandbox
